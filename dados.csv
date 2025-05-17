@@ -1,4 +1,4 @@
-ID,conta,Modelo,Processador,RAM,Armazenamento,Sistema Operacional,Conectividade,Leitor de Códigos,Tela,Bateria,Peso,Observações
+ID,Fabricante,Modelo,Processador,RAM,Armazenamento,Sistema Operacional,Conectividade,Leitor de Códigos,Tela,Bateria,Peso,Observações
 1,Zebra,TC52ax,Qualcomm Snapdragon 660,4 GB,64 GB,Android 11,Wi-Fi 6 / Bluetooth / 4G,1D/2D Imager,"5"" HD Touch",4150 mAh,,
 2,Honeywell,CT60 XP,Qualcomm Snapdragon 660,4 GB,32 GB,Android 10,Wi-Fi / 4G LTE / Bluetooth,1D/2D Imager,"4.7"" HD Touch",4040 mAh,,
 3,Datalogic,Skorpio X5,Qualcomm SDA660,4 GB,64 GB,Android 10,Wi-Fi / Bluetooth / 4G,1D/2D Imager,"4.3"" WVGA Touch",6200 mAh,,
