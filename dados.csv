@@ -1,4 +1,11 @@
-id,conta,nome
-1,123456789,João da Silva
-2,987654321,Maria Oliveira
-3,123789456,Carlos Souza
+ID,conta,Modelo,Processador,RAM,Armazenamento,Sistema Operacional,Conectividade,Leitor de Códigos,Tela,Bateria,Peso,Observações
+1,Zebra,TC52ax,Qualcomm Snapdragon 660,4 GB,64 GB,Android 11,Wi-Fi 6 / Bluetooth / 4G,1D/2D Imager,"5"" HD Touch",4150 mAh,,
+2,Honeywell,CT60 XP,Qualcomm Snapdragon 660,4 GB,32 GB,Android 10,Wi-Fi / 4G LTE / Bluetooth,1D/2D Imager,"4.7"" HD Touch",4040 mAh,,
+3,Datalogic,Skorpio X5,Qualcomm SDA660,4 GB,64 GB,Android 10,Wi-Fi / Bluetooth / 4G,1D/2D Imager,"4.3"" WVGA Touch",6200 mAh,,
+4,Chainway,C66,Octa-core 2.0GHz,4 GB,64 GB,Android 11,Wi-Fi / Bluetooth / 4G,1D/2D Imager,"5.5"" HD Touch",4300 mAh,,
+5,Urovo,DT50,Octa-core 2.2GHz,4 GB,64 GB,Android 11,Wi-Fi / 4G / Bluetooth,1D/2D Imager,"5.7"" HD+",4300 mAh,,
+6,CILICO,CM550X,Octa-core 2.0GHz,3 GB,32 GB,Android 10,Wi-Fi / 4G / Bluetooth,1D/2D Imager,"5.5"" Touch",4500 mAh,,
+7,Point Mobile,PM85,Octa-core 2.0GHz,4 GB,64 GB,Android 11,Wi-Fi / 4G / Bluetooth,1D/2D Imager,"5"" Touch",4100 mAh,,
+8,Newland,MT90 Orca Pro,Octa-core 2.0GHz,4 GB,64 GB,Android 11,Wi-Fi / 4G / Bluetooth,1D/2D Imager,"5"" Touch",4500 mAh,,
+9,Sunmi,L2s,Octa-core 2.0GHz,3 GB,32 GB,Android 11,Wi-Fi / 4G / Bluetooth,1D/2D Imager,"5.5"" HD Touch",5000 mAh,,
+10,Bluebird,VX500,Octa-core 2.2GHz,4 GB,64 GB,Android 11,Wi-Fi / 4G / Bluetooth,1D/2D Imager,"5"" HD Touch",4350 mAh,,
