@@ -9,4 +9,13 @@ ID,Fabricante,Modelo,Processador,RAM,Armazenamento,Sistema Operacional,Conectivi
 8,Newland,MT90 Orca Pro,Octa-core 2.0GHz,4 GB,64 GB,Android 11,Wi-Fi / 4G / Bluetooth,1D/2D Imager,"5"" Touch",4500 mAh,,
 9,Sunmi,L2s,Octa-core 2.0GHz,3 GB,32 GB,Android 11,Wi-Fi / 4G / Bluetooth,1D/2D Imager,"5.5"" HD Touch",5000 mAh,,
 10,Bluebird,VX500,Octa-core 2.2GHz,4 GB,64 GB,Android 11,Wi-Fi / 4G / Bluetooth,1D/2D Imager,"5"" HD Touch",4350 mAh,,
-11,Bluebir1d,VX500,Octa-core 2.2GHz,4 GB,64 GB,Android 11,Wi-Fi / 4G / Bluetooth,1D/2D Imager,"5"" HD Touch",4350 mAh,,
+11,Square,Handheld POS,Não especificado,Não especificado,Não especificado,Não especificado,Wi-Fi / Bluetooth / NFC,1D/2D Imager,"6.2"" Touchscreen",Bateria para um dia inteiro,311g,POS portátil com scanner e câmera de 16MP
+12,Newland,BS80 Piranha,Não especificado,1 MB Flash,Não aplicável,Não aplicável,Bluetooth 4.0/3.0/2.1+EDR,1D/2D Imager,Não aplicável,900 mAh,62g,Scanner compacto com alcance de 50m via Bluetooth
+13,iDPRT,HN-3378,Não especificado,Não especificado,Não especificado,Não aplicável,Bluetooth 5.0,1D/2D Imager,Não aplicável,2600 mAh,171g,Scanner robusto com alcance de 100m via Bluetooth
+14,PENETEK,BD1530,Não especificado,Não especificado,Não especificado,Não aplicável,USB,1D/2D Imager,Não aplicável,Não aplicável,Não especificado,Scanner com alta velocidade de leitura e precisão de 99.9%
+15,MTS,MCR-H700 Series,Não especificado,Não especificado,Não especificado,Não aplicável,USB / Bluetooth 5.0,1D/2D Imager,Não aplicável,Não aplicável,Não especificado,Scanner com sensor CMOS de 1.2MP e leitura de códigos DPM
+16,Brady,CR1500,Não especificado,16 MB RAM,1 MB Flash,Não aplicável,USB,1D/2D Imager,Não aplicável,Não aplicável,118g,Scanner com resistência a quedas de 1.8m e IP54
+17,Datalogic,Gryphon 4500,Não especificado,Não especificado,Não especificado,Não aplicável,Bluetooth / Narrowband,1D/2D Imager,Não aplicável,Não aplicável,Não especificado,Scanner com carregamento sem fio e design ergonômico
+18,Zebra,RS5100,Não especificado,Não especificado,Não especificado,Não aplicável,Bluetooth,1D/2D Imager,Não aplicável,480 mAh ou 735 mAh,70g,Scanner vestível com bateria substituível e resistência a ESD
+19,Infoscan,HS3155,Não especificado,Não especificado,Não especificado,Não aplicável,Bluetooth,1D/2D Imager,Não aplicável,2500 mAh,200g,Scanner com sensor de 1.3MP e alcance de 80m via Bluetooth
+20,Ricoh,Caplio 500SE,Não especificado,Não especificado,Não especificado,Não aplicável,Wi-Fi / Bluetooth,1D Imager,Não aplicável,Não aplicável,Não especificado,Câmera com scanner de código de barras integrado e GPS
